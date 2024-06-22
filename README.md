@@ -16,12 +16,8 @@ I offer a range of services designed to meet your technical needs. From software
 - **Embedded Development**: Providing high-performance embedded software and hardware solutions.
 - **Hardware Design**: Tailoring precise and reliable hardware solutions for various applications.
 
-**"Innovation distinguishes between a leader and a follower."** – Steve Jobs
-
 ## My Projects
 Explore my portfolio to see a selection of projects I've worked on over the years. Each project showcases my ability to deliver innovative and effective solutions in IoT, embedded systems, and hardware design.
-
-**"The best way to predict the future is to create it."** – Peter Drucker
 
 ## Embedded Development
 With extensive experience in embedded systems, I specialize in developing high-performance embedded solutions that integrate seamlessly with hardware.
@@ -30,8 +26,6 @@ With extensive experience in embedded systems, I specialize in developing high-p
 - Developing robust and efficient embedded systems.
 - Ensuring comprehensive solutions from initial concept to final implementation.
 
-**"The science of today is the technology of tomorrow."** – Edward Teller
-
 ## IoT Solutions
 I provide tailored IoT solutions that connect devices and systems seamlessly, focusing on delivering smart, connected systems that enhance functionality and efficiency.
 
@@ -39,16 +33,12 @@ I provide tailored IoT solutions that connect devices and systems seamlessly, fo
 - Expertise in data communication protocols.
 - Delivering robust and efficient IoT projects.
 
-**"The Internet of Things will change everything—including ourselves."** – Dave Evans
-
 ## Hardware Design
 As a hardware design expert, I offer comprehensive solutions tailored to meet the specific needs of each project, from initial concept to final product.
 
 ### Highlights:
 - Creating innovative and reliable hardware solutions.
 - Focusing on precision and excellence in electronic design.
-
-**"The details are not the details. They make the design."** – Charles Eames
 
 ## Contact Me
 Looking for a skilled engineer for your next project? Whether you have freelance work, consulting needs, or just want to discuss a potential collaboration, feel free to reach out. I’m always open to new opportunities and excited to connect with like-minded professionals.
@@ -59,5 +49,3 @@ Looking for a skilled engineer for your next project? Whether you have freelance
 **"Have any questions or want to discuss a project? I’m here to help! Whether it’s for freelance opportunities, consulting, or just to say hello, don’t hesitate to get in touch."**
 
 ---
-
-**"Great things in business are never done by one person; they’re done by a team of people."** – Steve Jobs
